@@ -1,0 +1,2 @@
+# MyChemicalRomanceGNN
+MDN GNN Miniproject
