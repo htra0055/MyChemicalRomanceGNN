@@ -1,0 +1,5 @@
+pandas
+pillow
+torch == 2.0.1
+torch-geometric
+rdkit
